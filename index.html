@@ -263,7 +263,7 @@ Alumni, CETB
           $('#send-anchor-other .button').text("Send Email");
         }
         else {
-          $("#send-anchor-gmail").attr("href", "https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to="+encodeURIComponent(toAddress)+"&bcc="+encodeURIComponent(bccAddress)+"&su="+encodeURIComponent(subject)+"&body="+encodedBody);
+          $("#send-anchor-gmail").attr("href", "https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to="+encodeURIComponent(toAddress)+"&bcc="+encodeURIComponent(bccAddress)+"&su="+encodeURIComponent(subject));
           $("#send-anchor-yahoo").attr("href", "http://compose.mail.yahoo.com/?Subject="+encodeURIComponent(subject)+"&To="+encodeURIComponent(toAddress)+"&Bcc="+encodeURIComponent(bccAddress));
         }
       }
