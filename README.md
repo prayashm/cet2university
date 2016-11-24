@@ -1,4 +1,4 @@
-# CET to University #
+# CETB to University #
 It's time CET Bhubaneswar becomes a Unitary University.
 
 ## Send your views to Chief Minister of Odisha! ##
