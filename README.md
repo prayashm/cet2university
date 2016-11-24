@@ -6,7 +6,7 @@ It's time CET Bhubaneswar becomes a Unitary University.
 Join us in demanding Unitary University for CET Bhubaneswar.
 
 ## Help us ##
-Help us by [reporting issues and by giving suggestions](https://github.com/prayashm/cet2university/issues), or contributing to the code.
+Help us by [reporting issues and by giving suggestions](https://github.com/prayashm/cetb2university/issues), or contributing to the code.
 
 If you'd like to join our discussions, please contact us via email.
 
