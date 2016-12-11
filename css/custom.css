@@ -296,3 +296,8 @@ html, body {
 .mobile-width-logo {
   max-width: 50%;
 }
+
+img.media {
+  margin-bottom: 30px;
+  padding: 10px;
+}
